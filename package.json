@@ -1,0 +1,23 @@
+{
+  "name": "testingpratice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^27.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadabwahidullah/TestingPratice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadabwahidullah/TestingPratice/issues"
+  },
+  "homepage": "https://github.com/shadabwahidullah/TestingPratice#readme"
+}
